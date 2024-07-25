@@ -14,48 +14,30 @@ When I'm not coding, you can find me experimenting with new UI/UX design trends 
 - **HTML5 & CSS3**: Structuring and styling with precision.
 - **Redux / Context API**: Efficient state management.
 - **Bootstrap / Material-UI** : Streamlining UI design.
-- **Git & GitHub**: Version control and collaboration.
 - **RESTful APIs** : Seamless data integration.
 - **Google Cloud Platform (GCP)**: Leveraging cloud functions and services for scalable solutions.
+- **React Native** : 
 
 
 ## 🏗️ Projects that I've Poured My Heart Into:
 
-Har Ghar Tiranga – React js front end , made cloud functions and managed over **10 crore users** on the website 
+### Some Highlights
+**Har Ghar Tiranga** – Har Ghar Tiranga digital programme in collaboration with the Ministry of Culture,GOI.I developed [Har Ghar Tiranga](harghartiranga.com) using React JS for the frontend and Firestore for the backend, incorporating cloud functions to efficiently manage over **10 crore users*** on the website.
 
-PM Museum – Made multiple softwares built in react js that were all driven by internal system MMS(Museum Management System) working on tcp and udp 
+**Pradhanmantri Sangrahalaya** – The Pradhanmantri Sangrahalaya is a museum dedicated to the Prime Ministers of India. I developed multiple software solutions using React JS,like: Touchwall and Kiosks all integrated with the internal Museum Management System (MMS) that operates over TCP and UDP protocols.
 
-Temple 360 – Firebase as Backend service and React js on frontend  this app connected  over more than 30 pilgrimage collaboration with the Ministry of Culture for a virtual live tour of the famous pilgrimages of India. (single handedly) 
+**Mera gaon meri dharohar** - [Mera Gaon Meri Dharohar](https://mgmd.gov.in) This website documents India’s cultural heritage by showcasing data from **6 lakhs** villages all across country
 
-Digital Tribute – React js + Firebase (single handedly) 
+**React JS + Firebase + Material UI + Redux + Web Socket** - Engineered and worked on full-fledged projects built on the MERN stack like [Viksit Bharat](https://viksitbharatsankalp.gov.in/) , [Mera Maati Mera Desh](https://merimaatimeradesh.gov.in/), [Swachhta Hi Seva](https://swachhatahiseva.com/) , [Temple360](temple360.in) , Satya Sai Museum, NACIN(National Academy of Customs, Indirect taxes & Narcotics) , NITI Aayog Starategy Room , etc
 
-Mera maati mera desh - React js + Firebase + made cloud functions 
+**React Native + AI** - Developed IOS app in React Native that tells personalized fashion styles using AI and fashion stylist(trust me makes you look like a model😉) and an App that gives you skin care routine as per users information
 
-Mera gaon meri dharohar - React js + Firebase + made cloud functions 
+### Project I led
 
-G20 Mother of Democracy  - Ask Gita – React js + Ai + elevenlabs (single handedly) 
+**G20 Mother of Democracy** - For the G20 Delhi Summit, I developed [Ask Gita](askgita.ai) a website that leverages React JS, AI technologies, and ElevenLabs to provide an interactive experience.And also many more kiosk applications. 
 
-Viksit bharat - React js + Firebase +Material Ui + Redux 
+**State War Museum** -  Led the frontend charge like a general in the digital trenches, single-handedly steering the code to victory against all odds.
 
-Satya Sai Musuem- Made multiple softwares built in react js that were all driven by internal system MMS(Museum Management System) working on tcp and udp 
+**Digital Tribute** - Took the reins and rode solo on this digital odyssey, transforming lines of code into a virtual monument that stands tall and bug-free. checkout out this - [Digital Tribute](https://digitaltribute.in/)
 
-NACIN- Made multiple softwares built in react js that were all driven by internal system MMS(Museum Management System) working on tcp and udp 
-
-Swachhta hi seva - React js  +Material Ui+ Firebase + Redux 
-
-Netaji Hologram Statue - React js + Firebase 
-
-Stylin – React Native + AI 
-
-Inara - React Native + AI 
-
-State War Museum –Lead the Front end single handedly) 
-
-Ekta Shrinkhla - React js + Firebase 
-
-Niti Aayog Strategy room – react js+ web socket+redis+  
-```
-
-this is code
-```
 [this is my linkdin](https://www.linkedin.com/in/shiv4ngi/)
