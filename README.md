@@ -1,27 +1,27 @@
 # 👋👋 Welcome Peeps !!! 
 
-Hello! I'm Shivangi, a React JS developer with a penchant for creating code that's both ✨stylish and functional✨. With over three years of experience, I turn complex problems into elegant solutions. Driven by a passion for creating engaging and innovative digital experiences, I am constantly exploring new technologies and techniques to enhance user experiences.
+Hello! I'm Shivangi, a Software developer and **Front-end Specialist** with a penchant for creating code that's both ✨stylish and functional✨. With over **3 years** of experience, I turn complex problems into elegant solutions. Driven by a passion for creating engaging and innovative digital experiences, I am constantly exploring new technologies and techniques to enhance user experiences.
 
-When I'm not coding, you can find me experimenting with new UI/UX design trends or enjoying a cup of coffee from the coffee machine☕️.
+When I'm not coding, you can find me experimenting with new UI/UX design trends or enjoying a cup of coffee from the coffee machine ☕️.
 
 ## 🏢  Where I'm Making Magic Happen:
-- Handcrafting beautiful and responsive websites as Sr. Full Stack Developer at Tagbin Services Pvt. Ltd.
+- Handcrafting beautiful and responsive websites as **Sr. Full Stack Developer** at Tagbin Services Pvt. Ltd.
 - Tried my hands on exploring data in the world of AI at Vidooly Media Tech as a Full time Intern
 
 ### 🛠️ A Glimpse into my Utility Belt:
-- React.js: Crafting dynamic, interactive UIs.
-- JavaScript (ES6+): Building modern web applications.
-- HTML5 & CSS3: Structuring and styling with precision.
-- Redux / Context API: Efficient state management.
-- Bootstrap / Material-UI : Streamlining UI design.
-- Git & GitHub: Version control and collaboration.
-- RESTful APIs : Seamless data integration.
-- Google Cloud Platform (GCP): Leveraging cloud functions and services for scalable solutions.
+- **React.js**: Crafting dynamic, interactive UIs.
+- **JavaScript (ES6+)**: Building modern web applications.
+- **HTML5 & CSS3**: Structuring and styling with precision.
+- **Redux / Context API**: Efficient state management.
+- **Bootstrap / Material-UI** : Streamlining UI design.
+- **Git & GitHub**: Version control and collaboration.
+- **RESTful APIs** : Seamless data integration.
+- **Google Cloud Platform (GCP)**: Leveraging cloud functions and services for scalable solutions.
 
 
 ## 🏗️ Projects that I've Poured My Heart Into:
 
-Har Ghar Tiranga – React js front end , made cloud functions and managed over 10 crore users on the website 
+Har Ghar Tiranga – React js front end , made cloud functions and managed over **10 crore users** on the website 
 
 PM Museum – Made multiple softwares built in react js that were all driven by internal system MMS(Museum Management System) working on tcp and udp 
 
