@@ -32,7 +32,7 @@ When I'm not coding, you can find me experimenting with new UI/UX design trends 
 
 **React Native + AI** - Developed IOS app in React Native that tells personalized fashion styles using AI and fashion stylist(trust me makes you look like a model😉) and an App that gives you skin care routine as per users information
 
-### Project I led
+### Projects I led
 
 **G20 Mother of Democracy** - For the G20 Delhi Summit, I developed [Ask Gita](askgita.ai) a website that leverages React JS, AI technologies, and ElevenLabs to provide an interactive experience.And also many more kiosk applications. 
 
