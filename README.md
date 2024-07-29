@@ -16,7 +16,7 @@ When I'm not coding, you can find me experimenting with new UI/UX design trends 
 - **Bootstrap / Material-UI** : Streamlining UI design.
 - **RESTful APIs** : Seamless data integration.
 - **Google Cloud Platform (GCP)**: Leveraging cloud functions and services for scalable solutions.
-- **React Native** : 
+- **React Native** : For creating mobile applications for android and IOS
 
 
 ## 🏗️ Projects that I've Poured My Heart Into:
@@ -24,7 +24,7 @@ When I'm not coding, you can find me experimenting with new UI/UX design trends 
 ### Some Highlights
 **Har Ghar Tiranga** – Har Ghar Tiranga digital programme in collaboration with the Ministry of Culture,GOI.I developed [Har Ghar Tiranga](harghartiranga.com) using React JS for the frontend and Firestore for the backend, incorporating cloud functions to efficiently manage over **10 crore users*** on the website.
 
-**Pradhanmantri Sangrahalaya** – The Pradhanmantri Sangrahalaya is a museum dedicated to the Prime Ministers of India. I developed multiple software solutions using React JS,like: Touchwall and Kiosks all integrated with the internal Museum Management System (MMS) that operates over TCP and UDP protocols.
+**Pradhanmantri Sangrahalaya** – The Pradhanmantri Sangrahalaya is a museum dedicated to the Prime Ministers of India. I developed multiple software solutions using React JS,like: Touchwall and Kiosks all integrated with the internal Museum Management System (MMS).
 
 **Mera gaon meri dharohar** - [Mera Gaon Meri Dharohar](https://mgmd.gov.in) This website documents India’s cultural heritage by showcasing data from **6 lakhs** villages all across country
 
@@ -40,4 +40,5 @@ When I'm not coding, you can find me experimenting with new UI/UX design trends 
 
 **Digital Tribute** - Took the reins and rode solo on this digital odyssey, transforming lines of code into a virtual monument that stands tall and bug-free. checkout out this - [Digital Tribute](https://digitaltribute.in/)
 
-[this is my linkdin](https://www.linkedin.com/in/shiv4ngi/)
+If you have questions or want to collaborate, or just want to talk about the latest trends in UI/UX, feel free to reach out. My virtual door is always open! 👋👋
+[shiv4ngi](https://www.linkedin.com/in/shiv4ngi/)
