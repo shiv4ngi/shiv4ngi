@@ -22,7 +22,7 @@ When I'm not coding, you can find me experimenting with new UI/UX design trends 
 ## 🏗️ Projects that I've Poured My Heart Into:
 
 ### Some Highlights
-**Har Ghar Tiranga** – Har Ghar Tiranga digital programme in collaboration with the Ministry of Culture,GOI.I developed [Har Ghar Tiranga](harghartiranga.com) using React JS for the frontend and Firestore for the backend, incorporating cloud functions to efficiently manage over **10 crore users*** on the website.
+**Har Ghar Tiranga** – Har Ghar Tiranga digital programme in collaboration with the Ministry of Culture,GOI.I developed [Har Ghar Tiranga](https://harghartiranga.com/) using React JS for the frontend and Firestore for the backend, incorporating cloud functions to efficiently manage over **10 crore users*** on the website.
 
 **Pradhanmantri Sangrahalaya** – The Pradhanmantri Sangrahalaya is a museum dedicated to the Prime Ministers of India. I developed multiple software solutions using React JS,like: Touchwall and Kiosks all integrated with the internal Museum Management System (MMS).
 
