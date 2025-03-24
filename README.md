@@ -1,6 +1,6 @@
 # 👋👋 Welcome Peeps !!! 
 
-Hello! I'm Shivangi, a Software developer and **Front-end Specialist** with a penchant for creating code that's both ✨stylish and functional✨. With over **3 years** of experience, I turn complex problems into elegant solutions. Driven by a passion for creating engaging and innovative digital experiences, I am constantly exploring new technologies and techniques to enhance user experiences.
+Hello! I'm Shivangi, a Software developer and **Front-end Specialist** with a penchant for creating code that's both ✨stylish and functional✨. With over **3.6 years** of experience, I turn complex problems into elegant solutions. Driven by a passion for creating engaging and innovative digital experiences, I am constantly exploring new technologies and techniques to enhance user experiences.
 
 When I'm not coding, you can find me experimenting with new UI/UX design trends or enjoying a cup of coffee from the coffee machine ☕️.
 
